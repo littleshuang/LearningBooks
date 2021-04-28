@@ -1,1 +1,4 @@
-C++[[:space:]]Primer/347/254/254/344/272/224/347/211/210/344/270/255/346/226/207/347/211/210.pdf filter=lfs diff=lfs merge=lfs -text
+*.pdf filter=lfs diff=lfs merge=lfs -text
+*.PDF filter=lfs diff=lfs merge=lfs -text
+*.zip filter=lfs diff=lfs merge=lfs -text
+*.epub filter=lfs diff=lfs merge=lfs -text
